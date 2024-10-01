@@ -10,7 +10,8 @@
 
 - Langkah 3
 
-  <img width="959" alt="image" src="https://github.com/user-attachments/assets/3638a572-c225-47c5-b036-a38b637e3c64">
+  <img width="959" alt="image" src="https://github.com/user-attachments/assets/3125b5b1-9a9a-4a92-a60f-64a5c3a8e197">
+
 
 
 
