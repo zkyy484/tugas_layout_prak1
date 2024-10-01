@@ -20,4 +20,5 @@
 
 - Langkah 5
 
-  <img width="959" alt="image" src="https://github.com/user-attachments/assets/624106ae-b734-49ce-800c-7b8d57486461">
+  <img width="959" alt="image" src="https://github.com/user-attachments/assets/957dca7f-8743-44a1-b49a-d82c48909240">
+
