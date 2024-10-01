@@ -13,9 +13,11 @@
   <img width="959" alt="image" src="https://github.com/user-attachments/assets/3125b5b1-9a9a-4a92-a60f-64a5c3a8e197">
 
 
+- Langkah 4
+
+  <img width="959" alt="image" src="https://github.com/user-attachments/assets/17c958f1-09bb-403f-acd2-a8d139557c86">
 
 
-
-- Tampilan terakhir
+- Langkah 5
 
   <img width="959" alt="image" src="https://github.com/user-attachments/assets/624106ae-b734-49ce-800c-7b8d57486461">
