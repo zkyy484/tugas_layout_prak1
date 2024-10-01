@@ -1,3 +1,3 @@
-- Tampilan Layout
-  
-  <img width="376" alt="image" src="https://github.com/user-attachments/assets/131cd47b-bc48-4b78-957a-425c56ab541b">
+- Tampilan terakhir
+
+  <img width="959" alt="image" src="https://github.com/user-attachments/assets/624106ae-b734-49ce-800c-7b8d57486461">
