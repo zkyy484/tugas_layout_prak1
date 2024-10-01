@@ -8,6 +8,12 @@
   <img width="959" alt="image" src="https://github.com/user-attachments/assets/843857f0-8426-4c43-8512-888120a930e0">
 
 
+- Langkah 3
+
+  <img width="959" alt="image" src="https://github.com/user-attachments/assets/3638a572-c225-47c5-b036-a38b637e3c64">
+
+
+
 
 - Tampilan terakhir
 
